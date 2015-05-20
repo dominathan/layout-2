@@ -2,6 +2,10 @@
   color: orange;
 }
 
+h1 {
+  font-weight: 800;
+}
+
 header, footer {
   width: 100%;
   background-color: #201C3F;
